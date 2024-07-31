@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tripathirajeev9801@gmail.com**
 
-- 🥹 Last account was banned in GitHub data breach.**
+- 🥹 Last account was banned in GitHub data breach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
