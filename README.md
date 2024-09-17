@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- 💬 Ask me about **TypeScript and Full stack Development**
+- 💬 Ask me about **Python and Backend Systems**
 
 - 📫 How to reach me **tripathirajeev9801@gmail.com**
 
-- 🥹 Last account was banned in GitHub data breach**
+- 🥹 Last account banned in GitHub data breach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
