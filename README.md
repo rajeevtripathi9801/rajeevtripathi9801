@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **5G systems of India**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Spring Boot and Java**
 
 - 📫 How to reach me **tripathirajeev9801@gmail.com**
 
