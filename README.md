@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NumPy and Pandas**
 
-- 📫 How to reach me **rajeevtripathi9801@gmail.com**
+- 📫 Reach me on **rajeevtripathi9801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
