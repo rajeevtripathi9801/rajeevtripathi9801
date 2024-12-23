@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
-<h3 align="center">Backend and Devops Engineer</h3>
+<h3 align="center">Backend Engineer</h3>
 
 - 🔭 I’m currently working on **5G systems of India**
 
-- 🌱 I’m currently learning **Spring Boot and Java**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **tripathirajeev9801@gmail.com**
+- 📫 How to reach me **rajeevtripathi9801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tripathiraj9801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tripathiraj9801" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tripathiraj981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tripathiraj981" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tripathiraj981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tripathiraj981" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tripathiraj981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeevtripathi9801" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tripathiraj981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeevtripathi9801" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
