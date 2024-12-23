@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Tripathi</h1>
-<h3 align="center">Backend Developer building scalale solutions</h3>
+<h3 align="center">Backend Developer building scalable solutions</h3>
 
 - 🔭 I’m currently building **5G solutions for India**
 
